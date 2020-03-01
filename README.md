@@ -14,7 +14,7 @@ source <Virtual Env Name>/bin/activate
 ```
 If you use ```conda```, follow as below to create the virtual environment.
 ```
-conda create -n <Virtual Env Name> python=3.6
+conda create -n <Virtual Env Name> python=3.7.6
 ```
 
 Activate and Deactivate before and after working with the project.
