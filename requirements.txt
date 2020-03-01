@@ -1,0 +1,8 @@
+pandas
+altair
+numpy
+vega_datasets
+toolz
+plotly-express
+plotly
+ipywidgets
